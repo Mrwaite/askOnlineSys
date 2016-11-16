@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+  </head>
+  <body>
+  <input id="username" type="text" placeholder="姓名">
+  <input id="stNumber" type="text" placeholder="学号">
+  <button type="button" onclick="sign();">签到</button>
+  </body>
+  <script src="js/jquery.min.js"></script>
+<script>
+function sign() {
+  var username = $('#username').val();
+  var stNumber = $('#stNumber').val();
+  $.ajax({
+    type : 'post',
+    url : '/sign',
+    data : {
+      username : username,
+      stNumber : stNumber
+    },
+    success : function (data) {
+      if(data === '1') {
+        alert('签到成功');
+        window.location.href = 'http://192.168.2.197:3000/sign';
+      } else if(data === '2') {
+        alert('已签到');
+      } else if(data === '3') {
+        alert('来霸面的吧');
+      }
+    }
+  })
+}
+</script>
+</html>

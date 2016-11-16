@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>登录</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <style type="text/css" adt="123"></style>
+</head>
+<body>
+
+<p></p>
+
+</body>
+<script src="/javascripts/jquery-3.1.0.min.js"></script>
+<script>
+$(document).ready(function () {
+    $.ajax({
+        type : 'get',
+        url : '/getTopic',
+        success : function (data) {
+            console.log(data);
+        }
+    });
+});
+</script>
+</html>
