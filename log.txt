@@ -1,191 +1,120 @@
 INFO: loading config from /home/mrwaite/shadowsocks.json
-2016-11-16 23:38:40 INFO     starting local at 127.0.0.1:1080
-2016-11-16 23:39:50 INFO     connecting raw.githubusercontent.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:80
-2016-11-16 23:39:52 INFO     connecting google.com:80
-2016-11-16 23:39:52 INFO     connecting www.google.com:80
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:443
-2016-11-16 23:39:52 INFO     connecting www.google.com:80
-2016-11-16 23:39:55 INFO     connecting www.gstatic.com:443
-2016-11-16 23:40:12 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:12 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:12 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:12 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:12 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:12 INFO     connecting accounts.google.com:443
-2016-11-16 23:40:13 INFO     connecting github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting api.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:13 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:40:13 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:40:15 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:15 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:15 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:15 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:15 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:15 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:16 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:16 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:40:19 INFO     connecting github.algolia.com:443
-2016-11-16 23:40:19 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:19 INFO     connecting www.google-analytics.com:443
-2016-11-16 23:40:19 INFO     connecting collector.githubapp.com:443
-2016-11-16 23:40:19 INFO     connecting www.google-analytics.com:443
-2016-11-16 23:40:21 INFO     connecting clients2.google.com:443
-2016-11-16 23:40:21 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:21 INFO     connecting api.github.com:443
-2016-11-16 23:40:22 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:22 INFO     connecting clients2.googleusercontent.com:443
-2016-11-16 23:40:24 INFO     connecting live.github.com:443
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:40:25 INFO     connecting api.github.com:443
-2016-11-16 23:40:25 INFO     connecting clients1.google.com:443
-2016-11-16 23:40:41 INFO     connecting beacons.gvt2.com:443
-2016-11-16 23:40:41 INFO     connecting beacons.gvt2.com:443
-2016-11-16 23:40:53 INFO     connecting app.yinxiang.com:443
-2016-11-16 23:41:11 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:41:11 INFO     connecting www.google.com:443
-2016-11-16 23:41:16 INFO     connecting github.com:443
-2016-11-16 23:41:16 INFO     connecting api.github.com:443
-2016-11-16 23:41:17 INFO     connecting accounts.google.com:443
-2016-11-16 23:41:18 INFO     connecting github.com:443
-2016-11-16 23:41:18 INFO     connecting github.com:443
-2016-11-16 23:41:18 INFO     connecting github.com:443
-2016-11-16 23:41:18 INFO     connecting github.com:443
-2016-11-16 23:41:18 INFO     connecting github.com:443
-2016-11-16 23:41:34 INFO     connecting api.xitu.io:80
-2016-11-16 23:41:34 INFO     connecting api.xitu.io:80
-2016-11-16 23:41:34 INFO     connecting api.xitu.io:80
-2016-11-16 23:41:36 INFO     connecting mtalk.google.com:5228
-2016-11-16 23:41:55 INFO     connecting mmbiz.qpic.cn:80
-2016-11-16 23:41:55 INFO     connecting mmbiz.qpic.cn:80
-2016-11-16 23:41:55 INFO     connecting mmbiz.qpic.cn:80
-2016-11-16 23:41:55 INFO     connecting mmbiz.qpic.cn:80
-2016-11-16 23:41:55 INFO     connecting mmbiz.qpic.cn:80
-2016-11-16 23:42:29 INFO     connecting github.com:443
-2016-11-16 23:42:31 INFO     connecting github.com:443
-2016-11-16 23:42:31 INFO     connecting github.com:443
-2016-11-16 23:42:31 INFO     connecting github.com:443
-2016-11-16 23:42:31 INFO     connecting api.github.com:443
-2016-11-16 23:42:32 INFO     connecting collector.githubapp.com:443
-2016-11-16 23:42:32 INFO     connecting live.github.com:443
-2016-11-16 23:42:34 INFO     connecting api.github.com:443
-2016-11-16 23:42:44 INFO     connecting github.com:443
-2016-11-16 23:42:46 INFO     connecting avatars3.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting api.github.com:443
-2016-11-16 23:42:53 INFO     connecting api.github.com:443
-2016-11-16 23:42:53 INFO     connecting api.github.com:443
-2016-11-16 23:42:53 INFO     connecting api.github.com:443
-2016-11-16 23:42:53 INFO     connecting api.github.com:443
-2016-11-16 23:42:53 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:42:53 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:42:53 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:42:53 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:42:53 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:42:53 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:42:53 INFO     connecting github.com:443
-2016-11-16 23:42:53 INFO     connecting avatars3.githubusercontent.com:443
-2016-11-16 23:42:55 INFO     connecting collector.githubapp.com:443
-2016-11-16 23:42:55 INFO     connecting www.google-analytics.com:443
-2016-11-16 23:42:55 INFO     connecting api.github.com:443
-2016-11-16 23:42:57 INFO     connecting www.googleapis.com:443
-2016-11-16 23:42:57 INFO     connecting www.googleapis.com:443
-2016-11-16 23:42:57 INFO     connecting www.googleapis.com:443
-2016-11-16 23:42:58 INFO     connecting www.googleapis.com:443
-2016-11-16 23:42:59 INFO     connecting clients4.google.com:443
-2016-11-16 23:42:59 INFO     connecting accounts.google.com:443
-2016-11-16 23:43:00 INFO     connecting accounts.google.com:443
-2016-11-16 23:43:00 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:00 INFO     connecting android.clients.google.com:443
-2016-11-16 23:43:01 INFO     connecting www.googleapis.com:443
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 ERROR    [Errno 104] Connection reset by peer
-2016-11-16 23:43:10 INFO     connecting github.com:443
-2016-11-16 23:43:12 INFO     connecting avatars2.githubusercontent.com:443
-2016-11-16 23:43:12 INFO     connecting avatars1.githubusercontent.com:443
-2016-11-16 23:43:12 INFO     connecting avatars0.githubusercontent.com:443
-2016-11-16 23:43:12 INFO     connecting live.github.com:443
-2016-11-16 23:43:13 INFO     connecting github.algolia.com:443
-2016-11-16 23:43:13 INFO     connecting api.github.com:443
-2016-11-16 23:43:21 INFO     connecting github.com:443
-2016-11-16 23:43:21 INFO     connecting github.com:443
-2016-11-16 23:43:21 INFO     connecting github.com:443
-2016-11-16 23:43:21 INFO     connecting github.com:443
-2016-11-16 23:43:21 INFO     connecting github.com:443
-2016-11-16 23:43:24 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:43:24 INFO     connecting live.github.com:443
-2016-11-16 23:43:26 INFO     connecting assets-cdn.github.com:443
-2016-11-16 23:43:52 INFO     connecting github.com:443
-2016-11-16 23:43:56 INFO     connecting live.github.com:443
-2016-11-16 23:43:57 INFO     connecting api.github.com:443
-2016-11-16 23:43:57 INFO     connecting api.github.com:443
-2016-11-16 23:44:42 INFO     connecting beacons.gvt2.com:443
-2016-11-16 23:45:15 INFO     connecting clients4.google.com:443
-2016-11-16 23:45:35 INFO     connecting mtalk.google.com:5228
-2016-11-16 23:45:35 INFO     connecting www.google.com:443
-2016-11-16 23:51:08 INFO     connecting sub.adtchrome.com:80
-2016-11-16 23:51:08 INFO     connecting sub.adtchrome.com:80
-2016-11-16 23:51:08 INFO     connecting sub.adtchrome.com:80
-2016-11-16 23:51:35 INFO     connecting mtalk.google.com:5228
-2016-11-16 23:51:35 INFO     connecting www.google.com:443
-2016-11-16 23:51:36 INFO     connecting clients4.google.com:443
+2016-11-18 05:15:17 INFO     starting local at 127.0.0.1:1080
+2016-11-18 05:15:19 INFO     connecting www.google.com:443
+2016-11-18 05:15:19 INFO     connecting www.google.com:443
+2016-11-18 05:15:19 INFO     connecting google.com:80
+2016-11-18 05:15:19 INFO     connecting www.google.com:80
+2016-11-18 05:15:19 INFO     connecting www.google.com:80
+2016-11-18 05:15:19 INFO     connecting www.google.com:443
+2016-11-18 05:15:19 INFO     connecting www.google.com:443
+2016-11-18 05:15:20 INFO     connecting www.google.com:443
+2016-11-18 05:15:21 INFO     connecting www.google.com:80
+2016-11-18 05:15:21 INFO     connecting www.google.com:443
+2016-11-18 05:15:24 INFO     connecting www.gstatic.com:443
+2016-11-18 05:15:28 INFO     connecting apis.google.com:443
+2016-11-18 05:15:32 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:15:32 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:15:32 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:15:32 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:15:32 INFO     connecting clients2.google.com:443
+2016-11-18 05:15:33 INFO     connecting clients1.google.com:443
+2016-11-18 05:15:35 INFO     connecting clients2.googleusercontent.com:443
+2016-11-18 05:15:39 INFO     connecting p5-ly5uomsdbfvda-xctsy64zb22xnmzj-209784-i1-dnssec-vd.gexperiments2.com:443
+2016-11-18 05:15:39 INFO     connecting p5-ly5uomsdbfvda-xctsy64zb22xnmzj-209784-i2-dnssec-nd.gexperiments1.com:443
+2016-11-18 05:15:40 INFO     connecting p5-ly5uomsdbfvda-xctsy64zb22xnmzj-209784-i1-dnssec-vd.gexperiments2.com:443
+2016-11-18 05:15:47 INFO     connecting accounts.google.com:443
+2016-11-18 05:15:51 INFO     connecting ssl.gstatic.com:443
+2016-11-18 05:15:51 INFO     connecting ssl.gstatic.com:443
+2016-11-18 05:15:51 INFO     connecting ssl.gstatic.com:443
+2016-11-18 05:15:51 INFO     connecting ssl.gstatic.com:443
+2016-11-18 05:15:52 INFO     connecting beacons.gvt2.com:443
+2016-11-18 05:15:52 INFO     connecting accounts.youtube.com:443
+2016-11-18 05:15:57 INFO     connecting lh3.googleusercontent.com:443
+2016-11-18 05:16:02 INFO     connecting ssl.google-analytics.com:443
+2016-11-18 05:16:02 INFO     connecting clients5.google.com:443
+2016-11-18 05:16:02 INFO     connecting ogs.google.com:443
+2016-11-18 05:16:03 INFO     connecting accounts.google.com:443
+2016-11-18 05:16:04 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:16:04 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:16:04 ERROR    [Errno 104] Connection reset by peer
+2016-11-18 05:16:04 INFO     connecting stats.g.doubleclick.net:443
+2016-11-18 05:16:06 INFO     connecting googleads.g.doubleclick.net:443
+2016-11-18 05:16:07 INFO     connecting plus.google.com:443
+2016-11-18 05:16:08 INFO     connecting beacons5.gvt3.com:443
+2016-11-18 05:16:10 INFO     connecting p5-ly5uomsdbfvda-xctsy64zb22xnmzj-209784-s1-v6exp3-v4.metric.gstatic.com:443
+2016-11-17 21:16:19 INFO     connecting play.google.com:443
+2016-11-17 21:16:22 INFO     connecting play.google.com:443
+2016-11-17 21:16:23 INFO     connecting mtalk.google.com:443
+2016-11-17 21:17:39 INFO     connecting www.googleapis.com:443
+2016-11-17 21:17:45 INFO     connecting wr.da.netease.com:80
+2016-11-17 21:17:50 INFO     connecting 125.75.32.101:80
+2016-11-17 21:17:52 INFO     connecting haitaoad.nosdn.127.net:80
+2016-11-17 21:18:04 INFO     connecting haitaoad.nosdn.127.net:80
+2016-11-17 21:18:04 INFO     connecting haitaoad.nosdn.127.net:80
+2016-11-17 21:19:35 INFO     connecting 111.20.250.44:80
+2016-11-17 21:20:43 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:20:43 INFO     connecting www.googleapis.com:443
+2016-11-17 21:20:43 INFO     connecting www.googleapis.com:443
+2016-11-17 21:20:45 INFO     connecting clients4.google.com:443
+2016-11-17 21:20:49 INFO     connecting accounts.google.com:443
+2016-11-17 21:22:41 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:23:18 ERROR    [Errno 104] Connection reset by peer
+2016-11-17 21:23:18 INFO     connecting clients4.google.com:443
+2016-11-17 21:23:20 INFO     connecting android.clients.google.com:443
+2016-11-17 21:24:03 INFO     connecting 111.20.250.44:80
+2016-11-17 21:26:03 INFO     connecting sub.adtchrome.com:80
+2016-11-17 21:26:03 INFO     connecting sub.adtchrome.com:80
+2016-11-17 21:28:08 INFO     connecting 111.20.250.44:80
+2016-11-17 21:28:47 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:28:47 INFO     connecting www.google.com:443
+2016-11-17 21:31:41 INFO     connecting 111.20.250.44:80
+2016-11-17 21:35:46 INFO     connecting 111.20.250.44:80
+2016-11-17 21:38:49 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:39:22 INFO     connecting 111.20.250.44:80
+2016-11-17 21:43:05 INFO     connecting 111.20.250.35:80
+2016-11-17 21:45:35 INFO     connecting 111.20.250.35:80
+2016-11-17 21:45:38 INFO     connecting 111.20.250.35:80
+2016-11-17 21:46:40 INFO     connecting 111.20.250.44:80
+2016-11-17 21:48:50 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:50:36 INFO     connecting 111.20.250.39:80
+2016-11-17 21:58:52 INFO     connecting mtalk.google.com:5228
+2016-11-17 21:59:07 INFO     connecting 111.20.250.38:80
+2016-11-17 22:02:46 INFO     connecting 111.20.250.35:80
+2016-11-17 22:06:47 INFO     connecting 111.20.250.39:80
+2016-11-17 22:08:53 INFO     connecting mtalk.google.com:5228
+2016-11-17 22:10:34 INFO     connecting 111.20.250.40:80
+2016-11-17 22:14:08 INFO     connecting 111.20.250.40:80
+2016-11-17 22:18:22 INFO     connecting 111.20.250.38:80
+2016-11-17 22:18:55 INFO     connecting mtalk.google.com:5228
+2016-11-17 22:22:13 INFO     connecting 111.20.250.36:80
+2016-11-17 22:26:06 INFO     connecting 111.20.250.44:80
+2016-11-17 22:28:56 INFO     connecting mtalk.google.com:5228
+2016-11-17 22:30:09 INFO     connecting 111.20.250.39:80
+2016-11-17 22:33:27 INFO     connecting 111.20.250.40:80
+2016-11-17 22:35:34 INFO     connecting clients4.google.com:443
+2016-11-17 22:36:49 INFO     connecting 111.20.250.36:80
+2016-11-17 22:38:59 INFO     connecting mtalk.google.com:5228
+2016-11-17 22:41:07 INFO     connecting 111.20.250.35:80
+2016-11-17 22:44:36 INFO     connecting 111.20.250.41:80
+2016-11-17 22:48:09 INFO     connecting 111.20.250.41:80
+2016-11-17 22:49:00 INFO     connecting mtalk.google.com:5228
+2016-11-17 22:51:53 INFO     connecting 111.20.250.38:80
+2016-11-17 22:56:25 INFO     connecting 111.20.250.41:80
+2016-11-17 22:59:02 INFO     connecting mtalk.google.com:5228
+2016-11-17 23:00:34 INFO     connecting 111.20.250.41:80
+2016-11-17 23:04:02 INFO     connecting 111.20.250.39:80
+2016-11-17 23:08:05 INFO     connecting 111.20.250.35:80
+2016-11-17 23:09:03 INFO     connecting mtalk.google.com:5228
+2016-11-17 23:11:28 INFO     connecting 111.20.250.38:80
+2016-11-17 23:15:35 INFO     connecting 111.20.250.39:80
+2016-11-17 23:19:05 INFO     connecting mtalk.google.com:5228
+2016-11-17 23:19:31 INFO     connecting 111.20.250.38:80
+2016-11-17 23:22:56 INFO     connecting 111.20.250.39:80
+2016-11-17 23:26:54 INFO     connecting 58.220.39.75:80
+2016-11-17 23:29:06 INFO     connecting mtalk.google.com:5228
+2016-11-17 23:31:13 INFO     connecting 111.20.250.39:80
+2016-11-17 23:34:45 INFO     connecting 111.20.250.39:80
+2016-11-17 23:37:26 INFO     connecting clients4.google.com:443
+2016-11-17 23:39:08 INFO     connecting mtalk.google.com:5228
+2016-11-17 23:39:12 INFO     connecting 111.20.250.40:80
+2016-11-17 23:43:50 INFO     connecting 111.20.250.38:80

@@ -16,6 +16,7 @@ var methods = {
     check : function (req, res, callback) {
         pool.getConnection(function (err, connection) {
             if (err) {
+                connection.release();
                 return callback(err, null);
             }
             var param = req.body;
@@ -53,6 +54,7 @@ var methods = {
     finishAsk : function (username, callback) {
         pool.getConnection(function (err, connection) {
             if(err) {
+                connection.release();
                 return callback(err, null);
             }
             connection.query($sql.changeAskTag, username, function (err, result) {
@@ -69,11 +71,13 @@ var methods = {
     sign : function (username, stNumber, callback) {
         pool.getConnection(function (err, connection) {
             if(err) {
+                connection.release();
                 return callback(err, null);
             }
             connection.query($sql.querySign, [username, stNumber], function (err, result) {
 
                 if(err) {
+                    connection.release();
                     return callback(err, null);
                 }
                 //1:未签到
@@ -91,14 +95,16 @@ var methods = {
                             return callback(null, '1');
                         })
                     } else if (result[0]['sign'] === 1) {
+                        connection.release();
                         return callback(null, '2');
                     }
                 } else {
 
                     //表示数据库没有此人,此人是来霸试的
+                    connection.release();
                     return callback(null, '3');
                 }
-                connection.release();
+
             })
         });
     }

@@ -43,7 +43,7 @@ $(function(){
             if (localStorage.name && username != localStorage.name) {
                 localStorage.clear();
             }
-            localstorage.name = username;
+            localStorage.name = username;
             var url = 'http://localhost:3000/written_test.html';
             window.location.href=url;
         }else if(data.code==2){
